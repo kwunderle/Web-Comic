@@ -1,0 +1,16 @@
+.char1 	{float:right;}
+.des1	{clear:left;}
+.des1 img, .des2 img, .des3 img {margin:0px auto;}
+.char2, .char4	{clear:both;
+		float:left;}
+.des2, .des4 {clear:right;}
+.char3		{clear:both;
+		float:right;}
+.des3	{clear:left;
+		padding:20px;}
+h3		{margin:0px auto;
+		text-align:center;}
+#story	{margin-top:20px;}
+nav		{clear:both;}
+article {overflow:hidden;}
+u		{font-size:1.5em;}

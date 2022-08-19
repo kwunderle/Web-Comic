@@ -1,0 +1,101 @@
+body 	{background:#A40E4C;
+		background:url("../images/geo.jpg");
+		background-attachment:fixed;
+		font-family:helvetica, arial, sans-serif;
+		color:black;
+		width:90%;
+		margin:0px auto;}
+header	{border-top: 5px dotted #F49D6E;
+		border-bottom: 8px dashed #F49D6E;
+		border-radius: 10px;
+		border-left: 5px solid #F49D6E;
+		border-right: 5px solid #F49D6E;
+		background:#2C2C54;
+		color:#ACC3A6;
+		font-family:Garamond;
+		font-size:2em;
+		font-weight:bold;
+		letter-spacing:10px;
+		text-align:center;
+		width:90%;
+		max-width:800px;
+		margin:0px auto;
+		margin-bottom:20px;
+		margin-top:20px;}
+article	{border-bottom: 5px dotted #2C2C54;
+		border-top: 8px dashed #2C2C54;
+		border-radius: 10px;
+		border-left: 5px solid #2C2C54;
+		border-right: 5px solid #2C2C54;
+		background:#F49D6E;
+		color:#2C2C54;
+		width:90%;
+		max-width:800px;
+		margin:0px auto;}
+p      	{padding:20px;
+		margin:0px auto;
+		text-align:center;}
+h2		{text-align:center;
+		margin:0px auto;
+		margin-top:20px;}
+nav ul
+		{list-style-type: none;
+		margin: 10px auto;
+		padding: 10px;
+		max-width:780px;
+		background-color: #A40E4C;
+		border-radius:10px;}
+img		{border:6px solid #A40E4C;
+		border-radius:5px;
+		margin:10px auto;
+		max-width:90%;}
+nav 	{margin:20px auto;
+		text-align:center;
+		padding:15px;}
+nav li	{display:inline;
+		text-align:center;
+		border-radius:10px;
+		margin:0px auto;
+		max-width:800px;}
+nav a:hover {
+		background: #2C2C54;
+		color:#ACC3A6;
+		border:1px solid #ACC3A6;
+		border-radius:0px;}
+nav a	{color: #2C2C54;
+		background:#ACC3A6;
+		text-align: center;
+		padding: 14px 16px;
+		margin: 5px;
+		font-family:courier new;
+		font-size:1.5em;
+		font-weight:bold;
+		text-decoration: none;
+		border:1px solid #2C2C54;
+		border-radius:10px;}
+
+footer	{border-top: 5px dotted #F49D6E;
+		border-bottom: 8px dashed #F49D6E;
+		border-radius: 10px;
+		border-left: 5px solid #F49D6E;
+		border-right: 5px solid #F49D6E;
+		background:#2C2C54;
+		color:#ACC3A6;
+		width:90%;
+		max-width:800px;
+		margin:0px auto;}
+footer a, p a{color: #2C2C54;
+		background:#ACC3A6;
+		text-align: center;
+		padding: 3px;
+		margin: 5px;
+		font-family:courier new;
+		text-decoration: none;
+		border:1px solid #2C2C54;
+		border-radius:10px;}
+footer a:hover, p a:hover {
+		background: #2C2C54;
+		color:#ACC3A6;
+		border:1px solid #ACC3A6;
+		border-radius:0px;}
+footer p {text-align:left;}
